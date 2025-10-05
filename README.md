@@ -80,13 +80,13 @@ print(f"Su índice de masa corporal (IMC) es: {imc:}")
 
 #Actividad 9
 
-# Pedir al usuario la temperatura en Celsius
+#Pedir al usuario la temperatura en Celsius
 celsius = float(input("Ingrese la temperatura en grados Celsius: "))
 
-# Convertir a Fahrenheit
+#Convertir a Fahrenheit
 fahrenheit = (9/5) * celsius + 32
 
-# Mostrar el resultado
+#Mostrar el resultado
 print(f"{celsius}°C equivalen a {fahrenheit:}°F")
 
 
